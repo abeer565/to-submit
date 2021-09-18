@@ -5,4 +5,3 @@ export AUTH0_DOMAIN='dev-1qgup88m.us.auth0.com'
 export API_AUDIENCE='image'
 export ALGORITHMS=['RS256']
 export SECRET='SECRET'
-export DATABASE_URL='postgres://lcwsqlaqeedlfs:6fd3cb209bb18ac0d99eaae1d7a451e8e8e209e777aa720a90a00653973b9c9d@ec2-54-147-126-173.compute-1.amazonaws.com:5432/d55fftrn0iufhr'
